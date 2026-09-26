@@ -3,7 +3,7 @@
     // Metodo di esecuzione dl codice (simile a java)
     public static void Main()
     {
-        Console.WriteLine("Ciao utente");
+        Console.WriteLine("Ciao utente123");
 
         int costoSpedizione = 5;
         costoSpedizione = 10;
@@ -13,8 +13,7 @@
 
         int costoTotale = numeroPacchiComprati * costoSpedizione;
 
-        Console.WriteLine(tipoConsegna);
-        Console.WriteLine(costoTotale);
+        Console.WriteLine($"Tipo di consegna: {tipoConsegna}.\n Costo totale: {costoTotale}.");
 
     }
 }   
