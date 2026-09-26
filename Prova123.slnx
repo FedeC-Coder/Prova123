@@ -2,6 +2,7 @@
   <Folder Name="/doc/" />
   <Folder Name="/src/">
     <Project Path="src/BlaisePascal.Domain/BlaisePascal.Domain.csproj" />
+    <Project Path="src/BlaisePascal.Prova123.Main/BlaisePascal.Prova123.Main.csproj" Id="ffd5325d-fd74-4aa4-aa40-4e892cc102bc" />
   </Folder>
   <Folder Name="/test/">
     <Project Path="test/BlaisePascal.Test/BlaisePascal.Test.csproj" />
